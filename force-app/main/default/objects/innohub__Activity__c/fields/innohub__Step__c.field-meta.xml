@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>innohub__Step__c</fullName>
+    <deprecated>false</deprecated>
+    <externalId>false</externalId>
+    <label>Step</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Workshop SPARK</fullName>
+                <default>false</default>
+                <label>Workshop SPARK</label>
+            </value>
+            <value>
+                <fullName>Vision</fullName>
+                <default>false</default>
+                <label>Vision</label>
+            </value>
+            <value>
+                <fullName>Blueprint</fullName>
+                <default>false</default>
+                <label>Blueprint</label>
+            </value>
+            <value>
+                <fullName>Value</fullName>
+                <default>false</default>
+                <label>Value</label>
+            </value>
+            <value>
+                <fullName>Discovery</fullName>
+                <default>false</default>
+                <label>Discovery</label>
+            </value>
+            <value>
+                <fullName>V2MOM</fullName>
+                <default>false</default>
+                <label>V2MOM</label>
+            </value>
+            <value>
+                <fullName>Delivery</fullName>
+                <default>false</default>
+                <label>Delivery</label>
+            </value>
+            <value>
+                <fullName>Workshop POC</fullName>
+                <default>false</default>
+                <label>Workshop POC</label>
+            </value>
+            <value>
+                <fullName>Use Cases</fullName>
+                <default>false</default>
+                <label>Use Cases</label>
+            </value>
+            <value>
+                <fullName>Demo</fullName>
+                <default>false</default>
+                <label>Demo</label>
+            </value>
+            <value>
+                <fullName>Preparation EBC</fullName>
+                <default>false</default>
+                <label>Preparation EBC</label>
+            </value>
+            <value>
+                <fullName>EBC Event</fullName>
+                <default>false</default>
+                <label>EBC Event</label>
+            </value>
+            <value>
+                <fullName>Follow UP EBC</fullName>
+                <default>false</default>
+                <label>Follow UP EBC</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
